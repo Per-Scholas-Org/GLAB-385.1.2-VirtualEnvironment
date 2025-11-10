@@ -1,6 +1,6 @@
 [![Per Scholas](per_scholas_logo.png)](https://www.perscholas.org) 
 
-# Guided LAB-385.2.1-VirtualEnvironment
+# Guided LAB-385.1.2 - VirtualEnvironment
 
 ## Introduction
 Create Virtual Environment using venv, virtualenv and conda modules
