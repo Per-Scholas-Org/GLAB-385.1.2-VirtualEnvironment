@@ -1,12 +1,12 @@
 [![Per Scholas](per_scholas_logo.png)](https://www.perscholas.org) 
 
-# GLAB-340.2.1-VirtualEnvironment
+# Guided LAB-385.2.1-VirtualEnvironment
 
 ## Introduction
 Create Virtual Environment using venv, virtualenv and conda modules
 
 ## Lab Overview
-In this lab, we'll demonstrate how to create virtual environment. Learner should be able to create and activate virtual envrironment using venv, virtualenv and conda module by the end of this lab.
+In this lab, we will demonstrate how to create virtual environment. Learner should be able to create and activate virtual envrironment using venv, virtualenv and conda module by the end of this lab.
 
 ## Examples
 ### Example 1: How to create and activate a virtual environment in Python using venv module
